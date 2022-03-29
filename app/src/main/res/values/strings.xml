@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Constellation matching</string>
+    <string name="label_star">Constellation</string>
+    <string name="label_parnter">Matching</string>
+    <string name="label_luck">Lucky tendency</string>
+    <string name="label_me">me</string>
+    <string name="man">male :</string>
+    <string name="woman">female :</string>
+    <string name="parnter_info">Selected your constellation and your boyfriend or grilfriend </string>
+    <string name="parnter_btn_prize">Daily draw</string>
+    <string name="parnter_btn_analysis">start matching</string>
+
+    <string name="about_app">about this app</string>
+    <string name="function">function introduction</string>
+    <string name="update">update journal</string>
+    <string name="feedback">feedback</string>
+
+</resources>
